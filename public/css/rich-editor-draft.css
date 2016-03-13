@@ -60,3 +60,19 @@
 .RichEditor-activeButton {
   color: #5890ff;
 }
+
+.insert-image {
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+    height: 250px;
+    width: 200px;
+}
+
+.image-container{
+    -webkit-user-select: none;
+}
+
+.divActive .insert-image{
+    opacity: 0.5;
+}
